@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "start-dev": "node lib/server-development",
+      "start": "node lib/server-production"
+    }
+  }
+  
